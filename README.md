@@ -3,8 +3,33 @@
 
 fork from noru/vue-easy-toast
 
-# build
+## Setup
+
+```
+yarn
+```
+
+
+## build
 
 ```
 yarn run build
+```
+
+## install
+
+```
+yarn add hui-toast
+```
+
+## Usage
+
+```javascript
+import Toast from 'hui-toast';
+Vue.use(Toast);
+
+```
+
+```
+toast(message,[options])
 ```
