@@ -25,7 +25,7 @@
     verticalPosition: 'bottom', // top bottom
     parent: 'body',
     transition: 'fade',
-    duration: 5000,
+    duration: 3000,
     message: '',
     closeable: false
   }
